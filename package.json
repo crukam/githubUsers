@@ -1,0 +1,28 @@
+{
+  "name": "githubusers",
+  "version": "1.0.0",
+  "description": "project getting github users info from their userName",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crukam/githubUsers.git"
+  },
+  "author": "Claude Rukamiza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crukam/githubUsers/issues"
+  },
+  "homepage": "https://github.com/crukam/githubUsers#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "babel-jest": "^29.5.0"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
